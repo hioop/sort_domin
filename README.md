@@ -13,3 +13,11 @@ using json string as output.
 3.mixed
 
 domin file come from [http://www.juming.com/delete_down.htm](http://www.juming.com/delete_down.htm)
+
+
+usage:read some domin from domin.php
+
+```
+http://localhost/index.php?filename=domin 
+
+```
